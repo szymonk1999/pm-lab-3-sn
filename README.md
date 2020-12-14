@@ -17,5 +17,5 @@ Grupa studencka: WEL18DE1S1
 
 3.2.2  W jaki sposób można rozbudować funkcjonalność programu w  przypadku  gdy  liczba  naciśnięć  przycisku  przekroczy  określoną  ilość? 
 
-
+3.2.3 Wjaki sposób można zwiększyć liczbę obsługiwanych poleceń oraz liczbę obsługiwanych parametrów?
 
